@@ -1,6 +1,6 @@
 {
   "name": "@freesewing/plugin-template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A template to jump-start your own freesewing plugin",
   "author": "Joost De Cock <joost@decock.org> (https://github.com/joostdecock)",
   "license": "MIT",
